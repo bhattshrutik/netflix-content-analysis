@@ -27,7 +27,7 @@
 
 ## 📌 Live Demo:
 
-🔗 **[View Power BI Dashboard](http://tiny.cc/netflix-dashboard)**
+🔗 **[View Power BI Dashboard](https://tinyurl.com/2r9wb4ne)**
 
 ---
 
