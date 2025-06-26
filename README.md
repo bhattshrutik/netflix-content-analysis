@@ -11,7 +11,7 @@
 ✔ **Top Genres Analysis** – Reveals the most popular genres across Netflix.  
 ✔ **Country-wise Content Distribution** – Highlights countries with the most content.  
 ✔ **Duration Insights** – Analyzes movie lengths and TV show seasons.    
-✔ **Dynamic Filtering (Optional)** – Filter content by Type, Country, Genre, and Year.
+✔ **Dynamic Filtering** – Filter content by Type, Country, Genre, and Year.
 
 ---
 
