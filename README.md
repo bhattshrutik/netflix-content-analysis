@@ -10,8 +10,7 @@
 ✔ **Content Growth Over Time** – Tracks the yearly rise in Movies and TV Shows.  
 ✔ **Top Genres Analysis** – Reveals the most popular genres across Netflix.  
 ✔ **Country-wise Content Distribution** – Highlights countries with the most content.  
-✔ **Duration Insights** – Analyzes movie lengths and TV show seasons.  
-✔ **Top Directors & Cast** – Finds the most featured creators and actors.  
+✔ **Duration Insights** – Analyzes movie lengths and TV show seasons.    
 ✔ **Dynamic Filtering (Optional)** – Filter content by Type, Country, Genre, and Year.
 
 ---
@@ -28,7 +27,7 @@
 
 ## 📌 Live Demo:
 
-🔗 *(Optional)* **[View Power BI Dashboard](http://tiny.cc/netflix-dashboard)**
+🔗 **[View Power BI Dashboard](http://tiny.cc/netflix-dashboard)**
 
 ---
 
