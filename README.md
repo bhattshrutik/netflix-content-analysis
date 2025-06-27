@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis Dashboard
+# 🎬 Netflix Content Analysis 
 
 🚀 **Performed an in-depth analysis of Netflix’s global catalog** to uncover trends in content types, genres, countries, and user-targeted strategies.  
 🔍 **Utilized Python for data cleaning and Seaborn/Matplotlib for visualization**, delivering powerful insights from over 8,800 titles in Netflix’s catalog.
